@@ -1,5 +1,5 @@
 ![uzumaki_naruto___naruto_by_ovieswifty_d9wwjbe-pre](https://user-images.githubusercontent.com/67204309/112768965-41203780-903c-11eb-85eb-ed1c1f259db9.jpg)
-[![Header](https://raw.githubusercontent.com/ManoranjanThakur/<OWNER>/<OWNER>/readme_header.png "Header")]
+
 ### Hi there 👋
 
 <!--
