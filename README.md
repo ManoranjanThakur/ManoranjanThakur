@@ -1,9 +1,10 @@
-![Screenshot (29) - Copy](https://user-images.githubusercontent.com/67204309/112769647-c78a4880-903f-11eb-92cd-9129f3f5a567.png)
+![2137963](https://user-images.githubusercontent.com/67204309/112770277-9a3f9980-9043-11eb-89ff-f21487ecdf60.jpg)
 
 
 
 
-### Hi there 👋
+
+###                                              Hi there 👋
 
 <!--
 **ManoranjanThakur/ManoranjanThakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
