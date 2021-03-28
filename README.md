@@ -5,7 +5,7 @@
 
 
 
-# ![giphy (1)](https://user-images.githubusercontent.com/67204309/112771383-2acca880-9049-11eb-8e33-d3dd8c31e34f.gif)&nbsp;&nbsp;&nbsp; ⇄ &nbsp;![0_xI2Yw_XaOtgnxfqn](https://user-images.githubusercontent.com/67204309/112771670-93685500-904a-11eb-8f1f-30b8d949bcef.gif)
+![giphy (1)](https://user-images.githubusercontent.com/67204309/112771383-2acca880-9049-11eb-8e33-d3dd8c31e34f.gif)&nbsp;&nbsp;&nbsp;  &nbsp;![0_xI2Yw_XaOtgnxfqn](https://user-images.githubusercontent.com/67204309/112771670-93685500-904a-11eb-8f1f-30b8d949bcef.gif)
 
 ![naruto_uzumaki](https://user-images.githubusercontent.com/67204309/112771059-6f574480-9047-11eb-8e2a-e2f2fb2e8f0f.jpg)
 
