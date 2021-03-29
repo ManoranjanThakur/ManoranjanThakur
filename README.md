@@ -2,7 +2,7 @@
 
 
 # ⋙Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">&nbsp;![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=#3776AB&logoColor=white&color=2bbc8a)&nbsp;![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)&nbsp;![](https://img.shields.io/badge/code-C++-informational?style=flat&logo=#00599C&logoColor=white&color=2bbc8a)&nbsp;![](https://img.shields.io/badge/tools-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)&nbsp;![](https://img.shields.io/badge/cloud-DigitalOcean-informational?style=flat&logo=#734F96&logoColor=white&color=2bbc8a)
-<img src="https://media.giphy.com/media/elJQRdWlFb8gPN1T9K/giphy.gif" width="150px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/9g6UbuoqTFdAI/giphy.gif" width="150px">
+<img src="https://media.giphy.com/media/elJQRdWlFb8gPN1T9K/giphy.gif" width="180px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/9g6UbuoqTFdAI/giphy.gif" width="150px">
 
 <!--
 **ManoranjanThakur/ManoranjanThakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+img src="https://media.giphy.com/media/PktXhCHFkpkre/giphy.gif" width="150px"
 -->
+
